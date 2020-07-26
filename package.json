@@ -1,6 +1,6 @@
 {
   "name": "laravel-query-builder-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Laravel Rest Api Query Builder",
   "main": "index.ts",
   "scripts": {
@@ -36,5 +36,6 @@
   },
   "dependencies": {
     "axios": "^0.19.2"
-  }
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
