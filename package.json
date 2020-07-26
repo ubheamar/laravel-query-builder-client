@@ -1,0 +1,40 @@
+{
+  "name": "laravel-query-builder-client",
+  "version": "1.0.0",
+  "description": "Laravel Rest Api Query Builder",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ubheamar/laravel-query-builder-client.git"
+  },
+  "keywords": [
+    "laravel",
+    "query",
+    "builder",
+    "laravel",
+    "rest",
+    "query",
+    "builder",
+    "spatie",
+    "query",
+    "builder"
+  ],
+  "author": "Amar Ubhe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ubheamar/laravel-query-builder-client/issues"
+  },
+  "homepage": "https://github.com/ubheamar/laravel-query-builder-client#readme",
+  "devDependencies": {
+    "class-transformer": "^0.2.3",
+    "reflect-helper": "^1.1.1",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
